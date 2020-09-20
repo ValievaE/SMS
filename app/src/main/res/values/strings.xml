@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SMS</string>
+    <string name="edtxt_phone_number">Номер телефона</string>
+    <string name="ed_txt">Текст сообщения</string>
+    <string name="btn_txt_send">Отправляем</string>
+    <string name="btn_txt_call">Звоним</string>
+</resources>
